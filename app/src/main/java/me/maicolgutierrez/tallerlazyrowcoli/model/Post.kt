@@ -1,6 +1,5 @@
 package me.maicolgutierrez.tallerlazyrowcoli.model
 
-
 data class Post(
     val id: Int,
     val username: String,
